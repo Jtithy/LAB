@@ -1,5 +1,6 @@
-// Circular Linked List with Sentinel Node
-
+/* Create a circular linked list with sentinel value by using a loop, 
+insert one element at the first position of this linked list and print 
+all elements. To create and print the Linked list, using a loop is mandatory. */
 #include <stdio.h>
 #include <stdlib.h>
 
