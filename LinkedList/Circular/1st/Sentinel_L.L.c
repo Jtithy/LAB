@@ -55,7 +55,7 @@ int main() {
 
     insertAtBeginning(sentinel, 0);
 
-    printf("\nCircular linked list after inserting '99' at the beginning:\n");
+    printf("\nCircular linked list after inserting element at the beginning:\n");
     printList(sentinel);
 
     return 0;
